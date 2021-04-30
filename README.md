@@ -16,40 +16,13 @@ b)Model trained with CIFAR 10 dataset:
 ## 2.	Data Description
 Images for each class (Successful and Unsuccessful Grasp) were extracted from videos of an Allegro robotic hand trying to grasp an object. These were used to retrain both the models after freezing classifier layers in models.
 
+https://user-images.githubusercontent.com/70087843/114982614-e87ad800-9e4c-11eb-9d35-ef937b81bbcb.png
+
+https://user-images.githubusercontent.com/70087843/114982708-07796a00-9e4d-11eb-95c8-ac393174785b.png
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-The sample size for both class was increased to 1000 using below augmentation function:
+The sample size for both class was increased to 1000 using transformation.
  
 
 
@@ -69,6 +42,17 @@ The method of using pre-trained model to train it again with new data is called 
 One of the major limitations of training our own created model is that we may need large number of dataset to extract features, to overcome this limitation, we can use the already established large dataset like CIFAR10 to extract features and then again freeze the features layer and train it with our own small dataset.
 
 Pretrained Resnet 34 model which was trained with our own dataset after freezing CNN layers was found to be getting more accurate over epochs.
+
+
+### Files: 
+DATASET: 
+Extracted Images (Successful): https://drive.google.com/drive/folders/1oUyCLogBPbyN6Ju7gkbbHfY4AuJ12HSo?usp=sharing
+
+Extracted Images (Unsuccessful): https://drive.google.com/drive/folders/1HwL92VNdifV6ecPpF3O3ChKgq_rMCULj?usp=sharing
+
+
+IMAGE SAMPLES FOR TEST: https://drive.google.com/drive/folders/1blB7_SYCXL0S5JXrheKZ_y7Xmv7ukxfx?usp=sharing
+
 
 
 
