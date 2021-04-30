@@ -16,7 +16,8 @@ b)Model trained with CIFAR 10 dataset:
 ## 2.	Data Description
 Images for each class (Successful and Unsuccessful Grasp) were extracted from videos of an Allegro robotic hand trying to grasp an object. These were used to retrain both the models after freezing classifier layers in models.
 
-https://user-images.githubusercontent.com/70087843/114982614-e87ad800-9e4c-11eb-9d35-ef937b81bbcb.png
+![image](https://user-images.githubusercontent.com/70087843/116761809-da44c400-a9d5-11eb-8ca7-6016a91551d7.png)
+
 
 https://user-images.githubusercontent.com/70087843/114982708-07796a00-9e4d-11eb-95c8-ac393174785b.png
 
