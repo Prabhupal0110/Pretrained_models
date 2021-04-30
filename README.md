@@ -19,7 +19,8 @@ Images for each class (Successful and Unsuccessful Grasp) were extracted from vi
 ![image](https://user-images.githubusercontent.com/70087843/116761809-da44c400-a9d5-11eb-8ca7-6016a91551d7.png)
 
 
-https://user-images.githubusercontent.com/70087843/114982708-07796a00-9e4d-11eb-95c8-ac393174785b.png
+![image](https://user-images.githubusercontent.com/70087843/116761878-ffd1cd80-a9d5-11eb-98e2-6d642d1f5010.png)
+
 
 
 
@@ -56,6 +57,12 @@ Extracted Images (Unsuccessful): https://drive.google.com/drive/folders/1HwL92VN
 
 
 IMAGE SAMPLES FOR TEST: https://drive.google.com/drive/folders/1blB7_SYCXL0S5JXrheKZ_y7Xmv7ukxfx?usp=sharing
+
+
+## Models:
+Pretrained Model with CIFAR 10 dataset: https://drive.google.com/file/d/1-5VK9TXuZ6UgS4jWsgYMO_7ej6HgQCFC/view?usp=sharing
+
+Pretrained resnet34 Model: https://drive.google.com/file/d/1nrVN2WLWqPnEMPqYUKxyrVi32LlhAHrk/view?usp=sharing
 
 
 
