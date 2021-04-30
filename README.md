@@ -32,6 +32,9 @@ The sample size for both class was increased to 1000 using transformation.
 • Test accuracy was obtained at the end using 32 (Not Successful: 16 and Successful: 16) new images which were not used in the training and validation.
 • Both models were trained for 4 epochs and following results were obtained:
 
+![image](https://user-images.githubusercontent.com/70087843/116761741-ac5f7f80-a9d5-11eb-869c-753189ec5d45.png)
+
+
  
 
 
